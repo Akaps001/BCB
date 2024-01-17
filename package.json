@@ -1,0 +1,19 @@
+{
+  "name": "bcb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  
+    "git":"https://github.com/Akaps001/BCB.git"
+  ,
+  "author": "Akapo Emmanuel Ayodeji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
